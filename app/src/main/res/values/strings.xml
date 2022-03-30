@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ChapterEmpat</string>
+    <string name="pertama">Pertama</string>
+    <string name="first_activity">First Activity</string>
+    <string name="snackbar_1">Snackbar 1</string>
+    <string name="snackbar_2">Snackbar 2</string>
+    <string name="snackbar_3">Snackbar 3</string>
+    <string name="welcome">Welcome</string>
+    <string name="next_page">Next Page</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toast">Toast</string>
+    <string name="snack">Snack</string>
+    <string name="masukkan_umur">Masukkan umur</string>
+    <string name="close">Close</string>
+    <string name="alertdialog_standard">AlertDialog Standard</string>
+    <string name="alertdialog_aksi">AlertDialog Aksi</string>
+    <string name="alertdialog_custom">AlertDialog Custom</string>
+    <string name="alertdialog_fragment">AlertDialog Fragment</string>
+    <string name="masukkan_angka_2">Masukkan angka 2</string>
+    <string name="masukkan_angka_1">Masukkan Angka 1</string>
+    <string name="latihan">Latihan</string>
+    <string name="proses">Proses</string>
+    <string name="hitung">Hitung</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="masukkan_jumlah">Masukkan Jumlah</string>
+    <string name="masukkan_harga">Masukkan Harga</string>
+    <string name="hitung_custom">Hitung (Custom)</string>
+    <string name="hitung_fragment">Hitung (Fragment)</string>
+    <string name="struk_belanja">Struk Belanja</string>
+    <string name="jumlah">Jumlah :</string>
+    <string name="harga">Harga :</string>
+    <string name="total">Total :</string>
+    <string name="kembalian">Kembalian :</string>
+    <string name="masukkan_uang">Masukkan Uang</string>
+    <string name="total_belanja">Total Belanja:</string>
+    <string name="bayar">Bayar</string>
+    <string name="clear">Clear</string>
+</resources>

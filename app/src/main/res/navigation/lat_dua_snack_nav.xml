@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lat_dua_snack_nav"
+    app:startDestination="@id/firstDuaFragment">
+
+    <fragment
+        android:id="@+id/firstDuaFragment"
+        android:name="ikhwan.binar.chapterempat.toastsnack.latihandua.FirstDuaFragment"
+        android:label="fragment_first_dua"
+        tools:layout="@layout/fragment_first_dua" >
+        <action
+            android:id="@+id/action_firstDuaFragment_to_secondDuaFragment"
+            app:destination="@id/secondDuaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/secondDuaFragment"
+        android:name="ikhwan.binar.chapterempat.toastsnack.latihandua.SecondDuaFragment"
+        android:label="fragment_second_dua"
+        tools:layout="@layout/fragment_second_dua" />
+</navigation>

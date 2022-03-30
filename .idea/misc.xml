@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_dialog.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_first.xml" value="0.30842391304347827" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihan_dua.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihan_empat_satu.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihan_satu.xml" value="0.30842391304347827" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihan_tiga_satu.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihhan_dua.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_main_snack.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/custom_alert_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/custom_empat_dialog.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_contoh_dialog.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_first.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_first_dua.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_latihan_empat_dialog.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_second.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_second_dua.xml" value="0.17831813576494426" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
