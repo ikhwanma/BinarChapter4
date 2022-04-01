@@ -10,8 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ChapterEmpat">
         <activity
-            android:name=".sharedpref.latihanenam.EnamActivity"
-            android:exported="true">
+            android:name=".sharedpref.latihantujuh.HomeTujuhActivity"
+            android:exported="false"
+            android:label="Home Binar"/>
+        <activity
+            android:name=".sharedpref.latihantujuh.LoginTujuhActivity"
+            android:exported="false"
+            android:label="Login Binar"/>
+        <activity
+            android:name=".sharedpref.latihantujuh.SplashTujuhActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -19,18 +28,19 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".sharedpref.latihanenam.EnamActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
             android:name=".sharedpref.SharedPrefDuaActivity"
             android:exported="false" />
         <activity
             android:name=".sharedpref.SharedPrefActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".recyclerview.latihanlima.LimaSatuActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".recyclerview.RecyclerActivity"
             android:exported="true" />

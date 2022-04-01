@@ -46,10 +46,16 @@
     <string name="ukuran">Ukuran</string>
     <string name="simpan">Simpan</string>
     <string name="hapus">Hapus</string>
-    <string name="logout">Logout</string>
     <string name="idmu">idmu</string>
     <string name="save">Save</string>
     <string name="view">View</string>
     <string name="namamu">Namamu</string>
     <string name="masukkan_id">Masukkan Id</string>
+    <string name="login">Login</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="home">Home</string>
+    <string name="halo">Halo,</string>
+    <string name="logout">Logout</string>
+    <string name="logo_binar">logo binar</string>
 </resources>
