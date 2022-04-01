@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ChapterEmpat">
         <activity
-            android:name=".dialog.latihanempat.LatihanEmpatSatuActivity"
+            android:name=".sharedpref.latihanenam.EnamActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,21 +19,36 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".dialog.latihantiga.LatihanTigaSatuActivity"
-            android:exported="true"></activity>
+            android:name=".sharedpref.SharedPrefDuaActivity"
+            android:exported="false" />
         <activity
-            android:name=".dialog.DialogActivity"
+            android:name=".sharedpref.SharedPrefActivity"
             android:exported="true">
 
         </activity>
+        <activity
+            android:name=".recyclerview.latihanlima.LimaSatuActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".recyclerview.RecyclerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".dialog.latihanempat.LatihanEmpatSatuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".dialog.latihantiga.LatihanTigaSatuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".dialog.DialogActivity"
+            android:exported="true" />
         <activity
             android:name=".toastsnack.snacktoastfrag.MainSnackActivity"
             android:exported="true" />
         <activity
             android:name=".toastsnack.latihandua.LatihanDuaActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".toastsnack.latihansatu.LatihanSatuActivity"
             android:exported="true" />

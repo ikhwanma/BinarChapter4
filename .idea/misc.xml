@@ -3,15 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.171" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_dialog.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_enam.xml" value="0.33" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_first.xml" value="0.30842391304347827" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihan_dua.xml" value="0.36231884057971014" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihan_empat_satu.xml" value="0.36231884057971014" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihan_satu.xml" value="0.30842391304347827" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihan_tiga_satu.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_latihhan_dua.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_lima_satu.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_main_snack.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_recycler.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_shared_pref.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/activity_shared_pref_dua.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/custom_alert_dialog.xml" value="0.25" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/custom_empat_dialog.xml" value="0.36231884057971014" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_contoh_dialog.xml" value="0.17831813576494426" />
@@ -20,6 +26,8 @@
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_latihan_empat_dialog.xml" value="0.36231884057971014" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_second.xml" value="0.36231884057971014" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/fragment_second_dua.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/item_lima.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ChapterEmpat/app/src/main/res/layout/item_recycler.xml" value="0.36231884057971014" />
       </map>
     </option>
   </component>

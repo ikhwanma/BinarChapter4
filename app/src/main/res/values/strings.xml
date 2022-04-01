@@ -37,4 +37,19 @@
     <string name="total_belanja">Total Belanja:</string>
     <string name="bayar">Bayar</string>
     <string name="clear">Clear</string>
+    <string name="nama">Nama</string>
+    <string name="no_hp">No.Hp</string>
+    <string name="umur">Umur</string>
+    <string name="pt">PT</string>
+    <string name="kategori">Kategori</string>
+    <string name="rate">Rate</string>
+    <string name="ukuran">Ukuran</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="logout">Logout</string>
+    <string name="idmu">idmu</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="namamu">Namamu</string>
+    <string name="masukkan_id">Masukkan Id</string>
 </resources>
