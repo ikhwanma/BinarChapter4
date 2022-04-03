@@ -52,10 +52,13 @@
     <string name="namamu">Namamu</string>
     <string name="masukkan_id">Masukkan Id</string>
     <string name="login">Login</string>
-    <string name="masukkan_password">Masukkan Password</string>
     <string name="masukkan_username">Masukkan Username</string>
     <string name="home">Home</string>
     <string name="halo">Halo,</string>
     <string name="logout">Logout</string>
     <string name="logo_binar">logo binar</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="masukkan_no_hp">Masukkan No Hp</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="register">Register</string>
 </resources>

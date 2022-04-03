@@ -12,10 +12,6 @@ class SplashTujuhActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_tujuh)
 
-        window.setFlags(
-            WindowManager.LayoutParams.FLAG_FULLSCREEN,
-            WindowManager.LayoutParams.FLAG_FULLSCREEN
-        )
         Handler().postDelayed(Runnable {
             val intent = Intent(this@SplashTujuhActivity, LoginTujuhActivity::class.java)
             startActivity(intent)
