@@ -61,4 +61,6 @@
     <string name="masukkan_no_hp">Masukkan No Hp</string>
     <string name="masukkan_email">Masukkan Email</string>
     <string name="register">Register</string>
+    <string name="nama_student">Nama Student</string>
+    <string name="email_student">Email Student</string>
 </resources>
