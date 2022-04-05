@@ -4,9 +4,8 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import ikhwan.binar.chapterempat.orm.kelas.Student
 
-@Database(entities = [Student::class],version = 1)
+@Database(entities = [Student::class], version = 1)
 abstract class StudentDatabase : RoomDatabase() {
     abstract fun studentDao(): StudentDao
 
